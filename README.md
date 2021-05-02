@@ -1,27 +1,12 @@
-# AngularCrud
+# Angular Crud - Projeto Inicial
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
+This project was created to simulate a CRUD with insert, update, list and delete functions.
 
-## Development server
+The functions used here do not interact with any real database and were made using the following API: https://reqres.in/
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+I do not own the code, but I followed the steps presented at the following videos:
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ - https://www.youtube.com/watch?v=V7OuPzVGLzs
+ - https://www.youtube.com/watch?v=mUYxbaBChh0
+ - https://www.youtube.com/watch?v=6pGVGv3TuCk
+ - https://www.youtube.com/watch?v=RFHx2XBZ11U
